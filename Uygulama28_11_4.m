@@ -1,12 +1,9 @@
-adSoyad = input("Lütfen ad soyadınızı giriniz: ","s");
-
-sayac = 1;
-while sayac<=10
-    disp(adSoyad)
-    sayac = sayac+1;
+i = 1;
+while i<=10
+    disp('İlhan Faruk Karaca')
+    i = i+1;
 end
 
 for i=1:10
-    disp(adSoyad)
-    i=i+1;
+    disp('İlhan Faruk Karaca')
 end
